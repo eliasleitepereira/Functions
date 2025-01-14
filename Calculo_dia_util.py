@@ -97,5 +97,3 @@ def calcula_vencimento(vdata,vdias,dap:bool):
 
 
 print(calcula_vencimento(vdata,vdias,dap))
-
-#endregion
