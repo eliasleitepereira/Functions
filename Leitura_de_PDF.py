@@ -45,7 +45,7 @@ def extrair_tabela_pdf(pdf_path):
     return df
 
 # Caminho do arquivo PDF
-pdf_path = "razao 3.3.4.2.0005 juros de mora recebidos.pdf"
+pdf_path = "Caminho do PDF desejado"
 
 # Extrair a tabela
 df_tabela = extrair_tabela_pdf(pdf_path)
